@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Anagram/Anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HashMapTest.iml" filepath="$PROJECT_DIR$/.idea/HashMapTest.iml" />
     </modules>
   </component>
