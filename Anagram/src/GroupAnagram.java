@@ -6,6 +6,7 @@ import java.util.*;
 
 public class GroupAnagram {
     public static void main(String[] args) {
+        //Input file name
         String filePath = "";
         try{
            List<String> words = readWordsFile(filePath);
